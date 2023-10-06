@@ -111,9 +111,6 @@ const styles = StyleSheet.create({
     alignItems: "flex-end",
     marginTop: 5,
   },
-  // customButton: {
-  //   padding: 10,
-  // },
 });
 
 export default Page1;
